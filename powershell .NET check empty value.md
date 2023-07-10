@@ -16,4 +16,4 @@ This code checks if the variable is null or empty. If it is, it will output “V
 4. [stackoverflow.com](https://stackoverflow.com/questions/13738634/how-can-i-check-if-a-string-is-null-or-empty-in-powershell)
 5. [thinkpowershell.com](https://thinkpowershell.com/test-powershell-variable-for-null-empty-string-and-white-space/)
 6. [stackoverflow.com](https://stackoverflow.com/questions/31081186/how-to-check-empty-null-csv-value)
-— 
+
